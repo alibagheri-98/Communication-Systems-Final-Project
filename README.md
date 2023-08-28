@@ -1,8 +1,7 @@
 # Communication-Systems-Final-Project
 
 In this repository, our goal is to simulate a real-time communication system using MATLAB.
-![passport-new](https://github.com/alibagheri-98/Communication-Systems-Final-Project/assets/112773855/4e2dcd5f-3a2d-4570-b497-4251eb502b56)
-
+![Screenshot (4600)](https://github.com/alibagheri-98/Communication-Systems-Final-Project/assets/112773855/afe8fac2-8ad2-4db8-a912-dc4071e11525)
 To achieve this, we will proceed through the following steps:
 
 1) Assume that the modulator and demodulator are PM. We write a MATLAB code to simulate the
