@@ -25,3 +25,4 @@ bandwidth, and so on.
 
 5) Finally we make our simulation setup realtime. In this way, you talk to the microphone and hear the demodulated signal from the speaker simultaneously without any delay and lag
 
+Please note that this requirement is fulfilled through two distinct methods. The MATLAB codes for both methods have been supplied, along with the LaTeX source code for your reference.
