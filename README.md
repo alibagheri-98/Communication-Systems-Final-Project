@@ -1,6 +1,6 @@
 # Communication-Systems-Final-Project
 
-In this repository, our goal is to simulate a real-time communication system using MATLAB.
+In this repository, our goal is to simulate a real-time communication system using MATLAB.  It represents the culmination of my efforts for the final course project of during the 'Communication Systems' course, which I completed in Spring 2021 instructed by Dr. Hadi at Sharif University of Technology.
 ![Screenshot (4600)](https://github.com/alibagheri-98/Communication-Systems-Final-Project/assets/112773855/afe8fac2-8ad2-4db8-a912-dc4071e11525)
 To achieve this, we will proceed through the following steps:
 
